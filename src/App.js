@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Nav/>
-        <Route exact path="/" component={Cards} />
+        <Route exact path="/react-task4" component={Cards} />
         <Route exact path="/resume" component={Resume} className="bg-info" />
     </div>
   );
