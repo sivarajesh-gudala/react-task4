@@ -7,7 +7,7 @@ import { BrowserRouter} from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <BrowserRouter basename="react-task4">
+  <BrowserRouter>
 
   <React.StrictMode>
     <App />
