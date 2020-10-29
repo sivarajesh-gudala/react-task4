@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-task4/static/css/main.43a0fcb4.chunk.css",
+    "main.js": "/react-task4/static/js/main.36ceea41.chunk.js",
+    "main.js.map": "/react-task4/static/js/main.36ceea41.chunk.js.map",
+    "runtime-main.js": "/react-task4/static/js/runtime-main.7d2f3ede.js",
+    "runtime-main.js.map": "/react-task4/static/js/runtime-main.7d2f3ede.js.map",
+    "static/js/2.8f8578a5.chunk.js": "/react-task4/static/js/2.8f8578a5.chunk.js",
+    "static/js/2.8f8578a5.chunk.js.map": "/react-task4/static/js/2.8f8578a5.chunk.js.map",
+    "static/js/3.eaa8c5d3.chunk.js": "/react-task4/static/js/3.eaa8c5d3.chunk.js",
+    "static/js/3.eaa8c5d3.chunk.js.map": "/react-task4/static/js/3.eaa8c5d3.chunk.js.map",
+    "index.html": "/react-task4/index.html",
+    "static/css/main.43a0fcb4.chunk.css.map": "/react-task4/static/css/main.43a0fcb4.chunk.css.map",
+    "static/js/2.8f8578a5.chunk.js.LICENSE.txt": "/react-task4/static/js/2.8f8578a5.chunk.js.LICENSE.txt",
+    "static/media/profileimg1.0d5fc2ac.jpg": "/react-task4/static/media/profileimg1.0d5fc2ac.jpg",
+    "static/media/profilelogo.fdd918d2.jpg": "/react-task4/static/media/profilelogo.fdd918d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d2f3ede.js",
+    "static/js/2.8f8578a5.chunk.js",
+    "static/css/main.43a0fcb4.chunk.css",
+    "static/js/main.36ceea41.chunk.js"
+  ]
+}
